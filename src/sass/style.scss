@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	position: relative;
+    //min wielkosc ekranu
+	min-height: 100vh;
+	font-family: 'Montserrat', sans-serif;
+	background-color: rgb(241, 241, 241);
+    //fioletowe obranowanie
+	border: 5px solid blueviolet;
+	border-radius: 50%;
+}
